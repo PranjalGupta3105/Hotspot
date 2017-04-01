@@ -11,10 +11,10 @@ Next if you wish to share the Internet follow the steps:
 2. Go to the "Change Adapter Settings" (Top Left Corner")
 3. Select the network option whose network you would like to share and Right Click and Go to "Properties" Button.
 4. Select the "Sharing" Tab.
-5.Check the checkbox that says "Allow other network users to connect through this computer's Internet Connection".
-6.Also, check mark the checkbox that says "Allow other network users to control or disable the shared Internet Connection".
-6.Also, Check mark all of the "Advance Settings" from the "Settings.." Button on right side of this windows.
-7. Click Ok and return back.
+5. Check the checkbox that says "Allow other network users to connect through this computer's Internet Connection".
+6. Also, check mark the checkbox that says "Allow other network users to control or disable the shared Internet Connection".
+7. Also, Check mark all of the "Advance Settings" from the "Settings.." Button on right side of this windows.
+8. Click Ok and return back.
 Your Shareable Internet is Ready.....
 
 To Stop
